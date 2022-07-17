@@ -8,5 +8,6 @@ public class git {
         System.out.println("this master");
         System.out.println("this hsq01");
         System.out.println("05 commit and push github");
+        System.out.println("06 commit at github ,and will pull to idea");
     }
 }
