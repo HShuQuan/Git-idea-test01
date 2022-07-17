@@ -5,5 +5,6 @@ public class git {
         System.out.println("hello git");
         System.out.println("this is 03 commit");
         System.out.println("this hsq01");
+        System.out.println("this master");
     }
 }
