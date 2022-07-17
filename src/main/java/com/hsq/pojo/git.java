@@ -7,5 +7,6 @@ public class git {
         System.out.println("this hsq01");
         System.out.println("this master");
         System.out.println("this hsq01");
+        System.out.println("05 commit and push github");
     }
 }
